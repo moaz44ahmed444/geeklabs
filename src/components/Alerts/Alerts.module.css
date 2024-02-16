@@ -1,0 +1,34 @@
+.heading{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    line-height: 72px;
+}
+
+.SearchBar{
+    
+    border-radius: 5px;
+    background-color: #d1d1d1;
+    border: none;
+}
+
+.SearchBar button {
+    background-color: transparent;
+    color: var(--white);
+    border: none;
+    cursor: pointer;
+  }
+
+  .BellIcon {
+    background-color: var(--accent-color);
+    color: var(--white);
+    border: 0;
+  }
+  
+  .BellIcon i {
+    font-size: 20px; /* Adjust the font size as needed */
+  }
+  
+  .SearchBar input::placeholder {
+    color: var(--white);
+  }  

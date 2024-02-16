@@ -1,0 +1,74 @@
+{
+    "alerts": [
+        {
+            "id" : 1,
+            "type": "AMZN",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "Low Risk"
+        },
+        {
+            "id" : 2,
+            "type": "TSLA",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "High Risk"
+        },
+        {
+            "id" : 3,
+            "type": "ABQQ",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "High Risk"
+        },
+        {
+            "id" : 4,
+            "type": "MSFT",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "Low Risk"
+        },
+        {
+            "id" : 5,
+            "type": "PYPL",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "Low Risk"
+        },
+        {
+            "id" : 6,
+            "type": "NFLX",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "Low Risk"
+        },
+        {
+            "id" : 7,
+            "type": "NFLX",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "Low Risk"
+        },
+        {
+            "id" : 8,
+            "type": "NFLX",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "Low Risk"
+        },
+        {
+            "id" : 9,
+            "type": "NFLX",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "Low Risk"
+        },
+        {
+            "id" : 10,
+            "type": "NFLX",
+            "price": 200,
+            "percentage": "-0.25%",
+            "risk": "Low Risk"
+        }        
+    ]
+}
